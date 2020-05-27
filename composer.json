@@ -1,5 +1,5 @@
 {
-    "name": "apeisia/easy-ebics",
+    "name": "pamekar/easy-ebics",
     "type": "library",
     "minimum-stability": "dev",
     "prefer-stable": false,
